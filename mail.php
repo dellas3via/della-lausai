@@ -1,8 +1,8 @@
 <?php
 
-$receiver = "datsbyun04@gmail.com";
+$receiver = "chenangelia24@gmail.com";
 $subject = "Email Test via PHP using Localhost";
-$body = "Hi, tehere... This is a test email send from Localhost.";
+$body = "angel lausai bo soi kha cheng";
 $sender = "From: della.002@ski.sch.id";
 
 if( mail($receiver, $subject, $body, $sender) ){
